@@ -76,7 +76,7 @@ console.log(bag)
 }
 
 
-// Now D
+// Now D 
 
 for(let i=0;i<6;i++){
     let bag=""
@@ -156,6 +156,7 @@ for(let i=0;i<6;i++){
 console.log(bag)
 }
 
+// NOW H
 
 
 
